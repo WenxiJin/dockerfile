@@ -1,4 +1,4 @@
-# This is a comment
+# This Dockerfile is for sophion testbench PC
 FROM ubuntu:14.04
 MAINTAINER Wenxi Jin <jwenxi@gmail.com>
 
